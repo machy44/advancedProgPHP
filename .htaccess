@@ -1,0 +1,5 @@
+RewriteEngine on
+
+RewriteRule ^page1\.php$ http:naprednoprogramiranje/index.php
+RewriteRule ^page2\.php$ http:naprednoprogramiranje/index.php
+RewriteRule ^page3\.php$ http:naprednoprogramiranje/index.php
